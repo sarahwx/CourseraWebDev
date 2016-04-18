@@ -1,0 +1,41 @@
+body {
+	font-size: 16px;
+}
+
+/** HEADER **/
+#header-nav {
+	background-color: gray;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand h1 {
+	color: black;
+	font-size: 150%;
+	font-weight: bold;
+	text-align: left;
+	margin-top: 0px;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  background-color: rgb(200,200,200); 
+  color: black;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: white;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+/** MAIN **/
+#Chicken {
+	background-color: gray;
+	height: 1000px;
+}
